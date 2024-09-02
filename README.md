@@ -9,7 +9,30 @@
 
 UNIQUENESS :The solution integrates IoT, machine learning, and robotics into a single system for precision farming with real-time data and mobile access. The rover design emphasizes a modular, robust structure with advanced sensors, efficient power management, and an intuitive user interface.
 
-![image](https://github.com/user-attachments/assets/a8bfa4b0-7f60-4616-a82c-15ab40be95c5)
+# Tools for Software Implementation:
+1) Python
+2) Tensor-flow 
+3) OpenCV 
+4) ESP-NOW 
+5) Visual-Studios 
+6) REACT-JS
+7) EXPRESS/NODE-JS 
+8) MONGO 
+9) Deep Learning
+
+# Tools for Hardware Implementation :  
+1) ESP3-CAM  2) ESP-CAM CAMERA 
+3) ESP 32  4) L298N Motor Driver 
+5) Relay – 5V  6)ARDUINO NANO 
+7)Soil Moisture Sensor  8) Humidity and Temperature Sensor
+9) 12 V Gear Motor 10) Robot Wheels 11) Water Pump 12) Servo Motor 
+13) Battery – 12V  14) Bread Board  15) Switches 16) Connecting Wires : Single Stranded , Multistranded, Jumper Wires
+
+![image](![image](https://github.com/user-attachments/assets/5df8f804-2c06-4c76-abe5-b8c9a13940ff)
+)
+
+![image](![image](https://github.com/user-attachments/assets/e170b146-22a8-4811-9497-e5b7aaec8b3a)
+)
 
 # Feasibility : 
 Our model is practical and realistic because it uses proven IoT and machine learning technology with easy to access mobile interface.
@@ -30,7 +53,7 @@ Early detection and prevention of crop diseases.
 # Benefits : 
 Economic: Reduces water usage and increases farm productivity.
 Environmental: Conserves water and promotes sustainable farming practices.
-Social: Improves farmers’ livelihood by optimizing resource use.![image](https://github.com/user-attachments/assets/58a12aee-4614-49a3-8901-8a27e912bdb1)
+Social: Improves farmers’ livelihood by optimizing resource use.
 
 
 
