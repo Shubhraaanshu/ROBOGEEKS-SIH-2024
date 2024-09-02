@@ -30,7 +30,7 @@ UNIQUENESS :The solution integrates IoT, machine learning, and robotics into a s
 
 ![Alt text](![farm model](https://github.com/user-attachments/assets/c60fdd3c-9f46-494a-ae63-56cff2d0c58d)
 )
-![Alt text](![rover chart](https://github.com/user-attachments/assets/3e5a028c-a4d5-4805-b6b9-e44bc7c11794)
+(![rover chart](https://github.com/user-attachments/assets/3e5a028c-a4d5-4805-b6b9-e44bc7c11794)
 
 )
 
