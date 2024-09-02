@@ -28,11 +28,12 @@ UNIQUENESS :The solution integrates IoT, machine learning, and robotics into a s
 9) 12 V Gear Motor 10) Robot Wheels 11) Water Pump 12) Servo Motor 
 13) Battery – 12V  14) Bread Board  15) Switches 16) Connecting Wires : Single Stranded , Multistranded, Jumper Wires
 
-![image](![image](https://github.com/user-attachments/assets/5df8f804-2c06-4c76-abe5-b8c9a13940ff)
+![Alt text](![farm model](https://github.com/user-attachments/assets/c60fdd3c-9f46-494a-ae63-56cff2d0c58d)
+)
+![Alt text](![rover chart](https://github.com/user-attachments/assets/3e5a028c-a4d5-4805-b6b9-e44bc7c11794)
+
 )
 
-![image](![image](https://github.com/user-attachments/assets/e170b146-22a8-4811-9497-e5b7aaec8b3a)
-)
 
 # Feasibility : 
 Our model is practical and realistic because it uses proven IoT and machine learning technology with easy to access mobile interface.
