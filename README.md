@@ -11,3 +11,26 @@ UNIQUENESS :The solution integrates IoT, machine learning, and robotics into a s
 
 ![image](https://github.com/user-attachments/assets/a8bfa4b0-7f60-4616-a82c-15ab40be95c5)
 
+# Feasibility : 
+Our model is practical and realistic because it uses proven IoT and machine learning technology with easy to access mobile interface.
+It’s designed to be adaptable, making it practical for farms of various sizes.
+
+# Challenges :
+The initial setup can be quite pricey but still most of the farmers can afford it.
+Farmers need to learn how to use the new technology.
+
+# Strategies : 
+We can seek government support or grants to ease the financial burden.
+We’ll offer simple, hands-on guides and friendly support to help farmers get started.
+
+# Impacts : 
+Enhanced water efficiency and crop yield.
+Early detection and prevention of crop diseases.
+
+# Benefits : 
+Economic: Reduces water usage and increases farm productivity.
+Environmental: Conserves water and promotes sustainable farming practices.
+Social: Improves farmers’ livelihood by optimizing resource use.![image](https://github.com/user-attachments/assets/58a12aee-4614-49a3-8901-8a27e912bdb1)
+
+
+
