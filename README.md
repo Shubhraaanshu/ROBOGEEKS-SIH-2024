@@ -1,5 +1,5 @@
 # Project Proposal
-Plant Disease Monitoring, Detection, Prevention, Avoidance, and Recovery through Artificial and Deep Learning Technique
+# Plant Disease Monitoring, Detection, Prevention, Avoidance, and Recovery through Artificial and Deep Learning Technique
 
 # 1. Introduction
 Plant diseases pose a significant threat to global agriculture, agricultural productivity, affecting crop yields and global food security. The complexity of disease dynamics, coupled with soil and environmental factors, necessitates a comprehensive approach that integrates monitoring, detection, prevention, avoidance and recovery. Early detection and effective management of these diseases are crucial to minimizing crop losses. Recent advances in Artificial Intelligence (AI) and Machine Learning (ML) offer unprecedented opportunities to enhance the monitoring, detection, prevention, avoidance, and recovery of plant diseases. This research proposal outlines the development of an integrated system that leverages advanced sensing technologies, machine learning, and precision agriculture to monitor, detect, prevent, avoid and recover plant deceases and also aims to develop an AI-driven system that integrates these five components to provide a comprehensive solution for managing plant health.
