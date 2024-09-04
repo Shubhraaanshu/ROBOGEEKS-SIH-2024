@@ -31,6 +31,7 @@ o	Test the integrated system in various agricultural settings, including smallho
 
 # 2) IOT MODEL: 
 ![Alt text](farmmodel.jpg)
+![Alt text](roverchart.jpg)
 
 # 4. Methodology
 1.	Data Collection and Monitoring System Development:
