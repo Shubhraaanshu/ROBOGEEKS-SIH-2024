@@ -30,7 +30,7 @@ o	Test the integrated system in various agricultural settings, including smallho
 # 1) DEEP LEARNING AND LLM MODEL:
 
 # 2) IOT MODEL: 
-![Alt text](./farm model.jpg)
+![Alt text](./main/farm%20model.jpg)
 
 # 4. Methodology
 1.	Data Collection and Monitoring System Development:
