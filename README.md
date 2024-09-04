@@ -25,7 +25,12 @@ o	Use AI to optimize recovery strategies and suggest interventions to restore pl
 6.	Field Implementation and Validation:
 o	Test the integrated system in various agricultural settings, including smallholder farms, large-scale farms and commercial operations, to validate its effectiveness across different crops and environments.
 
-# 3. Model Architecture
+# 3. Model Architecture-
+
+# 1) DEEP LEARNING AND LLM MODEL:
+
+# 2) IOT MODEL: 
+![Alt text](./)
 
 # 4. Methodology
 1.	Data Collection and Monitoring System Development:
