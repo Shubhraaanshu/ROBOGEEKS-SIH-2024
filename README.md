@@ -71,13 +71,14 @@ This project seeks to leverage AI and ML to develop a comprehensive system for p
 
 
 # 8. References
-•	Research on AI and ML applications in agriculture.
-•	Studies on plant disease detection using imaging technologies.
-•	Literature on sustainable disease management practices and recovery strategies.
-
-
-
- 
+a.	Research on AI and ML applications in agriculture.
+b.	Studies on plant disease detection using imaging technologies.
+c.	Literature on sustainable disease management practices and recovery strategies.
+d. Nair, A., James, M., Gouripriya, J., Shibu, S. M., & Shihabudeen, H. (2021). Smart farming and plant disease detection using IoT and ML. [Smart Farming and Plant Disease Detection using IoT and ML]. Retrieved from https://www.ijert.org/
+e. Shobana, M., Pandey, B. S., Padmashri, R., & Triveni, U. (2021). IoT based smart irrigation system using soil moisture sensor and ESP8266 NodeMCU 1M. M.G.R. Educational and Research Institute, Chennai, India. Retrieved from https://www.ijert.org/
+f. Thangavel, M., Gayathri, P. K., Sabari, K. R., & Prathiksha, V. (2022). Plant leaf disease detection using deep learning. Knowledge Institute of Technology. Retrieved from https://www.ijert.org/
+g. Prashantha, G. R., Deepa, N., Jahnavi, V. V., Harshita, N. S., & Bhavana, K. (2022). Plant disease classification using deep neural network. Jain Institute of Technology, Davanagere, Karnataka, India. Retrieved from https://www.ijert.org/
+h. Rastogi, A., Arora, R., & Sharma, S. (2015). Leaf disease detection and grading using computer vision technology & fuzzy logic. Sopra, Noida, Uttar Pradesh, India; Young & Shando, Noida, Uttar Pradesh, India; ASET, Amity University, Noida, Uttar Pradesh, India. Retrieved from https://www.researchgate.net/
  
  # PPT
 
