@@ -29,7 +29,7 @@ o	Test the integrated system in various agricultural settings, including smallho
 
 # 1) DEEP LEARNING AND LLM MODEL:
 ![Alt text](aimodel.jpg)
-![Alt text](sensorsparameter.jpg)
+![Alt text](sensorsparameters.jpg)
 
 
 # 2) IOT MODEL: 
