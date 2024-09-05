@@ -72,12 +72,19 @@ This project seeks to leverage AI and ML to develop a comprehensive system for p
 
 # 8. References
 <div>a.	Research on AI and ML applications in agriculture.</div>
+<br>
 <div>b.	Studies on plant disease detection using imaging technologies.</div>
+<br>
 <div>c.	Literature on sustainable disease management practices and recovery strategies.</div>
+<br>
 <div>d. Nair, A., James, M., Gouripriya, J., Shibu, S. M., & Shihabudeen, H. (2021). Smart farming and plant disease detection using IoT and ML. [Smart Farming and Plant Disease Detection using IoT and ML]. Retrieved from https://www.ijert.org/ </div>
+<br>
 <div>e. Shobana, M., Pandey, B. S., Padmashri, R., & Triveni, U. (2021). IoT based smart irrigation system using soil moisture sensor and ESP8266 NodeMCU 1M. M.G.R. Educational and Research Institute, Chennai, India. Retrieved from https://www.ijert.org/ </div>
+<br>
 <div>f. Thangavel, M., Gayathri, P. K., Sabari, K. R., & Prathiksha, V. (2022). Plant leaf disease detection using deep learning. Knowledge Institute of Technology. Retrieved from https://www.ijert.org/ </div>
+<br>
 <div>g. Prashantha, G. R., Deepa, N., Jahnavi, V. V., Harshita, N. S., & Bhavana, K. (2022). Plant disease classification using deep neural network. Jain Institute of Technology, Davanagere, Karnataka, India. Retrieved from https://www.ijert.org/ </div>
+<br>
 <div>h. Rastogi, A., Arora, R., & Sharma, S. (2015). Leaf disease detection and grading using computer vision technology & fuzzy logic. Sopra, Noida, Uttar Pradesh, India; Young & Shando, Noida, Uttar Pradesh, India; ASET, Amity University, Noida, Uttar Pradesh, India. Retrieved from https://www.researchgate.net/ </div>
  
  # PPT
